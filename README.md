@@ -1,5 +1,8 @@
-### Hi there 👋  Bonjour tout le monde :D
 
+
+## Hi there 👋  Bonjour tout le monde :D
+
+### A la recherche du commit parfait ?
 <!--
 **jmcob/jmcob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.jmax.dev
 
 Have a nice day !
+
 
