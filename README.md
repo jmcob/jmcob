@@ -16,6 +16,8 @@ L'informatique c'est bien, GitHub aussi. Le reste de nos vies aussi.
 
 Here are some ideas to get you started:
 -->
+## Otherwise !
+
 - 🔭 I’m currently working on openClassrooms
 
 - 🌱 I’m currently learning node.js / mongoDB / express()
