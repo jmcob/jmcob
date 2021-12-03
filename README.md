@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-## Otherwise !
+
 
 - 🔭 I’m currently working on openClassrooms
 
