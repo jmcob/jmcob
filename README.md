@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on openClassrooms
 
-- 🌱 I’m currently learning node.js / mongoDB / express()
+- 🌱 I’m currently learning VueJS3
 
 - 📫 How to reach me: www.jmax.dev
 
