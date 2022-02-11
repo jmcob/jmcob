@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on openClassrooms
+- 🔭 I’m currently working on Groupomania for openClassrooms
 
-- 🌱 I’m currently learning VueJS3 and MySQL, maybe React anytime soon.
+- 🌱 I’m currently learning VueJS3 and MySQL.
 
 - 📫 How to reach me: www.jmax.dev
 
