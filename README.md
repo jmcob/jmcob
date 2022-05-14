@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Groupomania for openClassrooms
+- 🔭 I’m currently looking for a web dev job in Bordeaux France
 
-- 🌱 I’m currently learning VueJS3 and MySQL.
+- 🌱 I’m currently updating my personal website in vue3
 
 - 📫 How to reach me: www.jmax.dev
 
