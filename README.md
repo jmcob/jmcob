@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a web dev job in Bordeaux France
 
-- 🌱 I’m currently updating my personal website in vue3
+- 🌱 I’m currently learning PHP
 
 - 📫 How to reach me: www.jmax.dev
 
