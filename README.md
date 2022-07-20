@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently improving my vue skills
 
+- I'm loving VitePress right now
+
 - 📫 How to reach me: www.jmax.dev
 
 Have a nice day !
