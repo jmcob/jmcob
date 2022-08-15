@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - I'm a trainee a Geosoft (near Bordeaux)
 
-- 🌱 I’m currently improving my vue skills
+- 🌱 I’m currently improving my vue skills with https://www.uneparole.love
 
 - I'm loving VitePress right now
 
