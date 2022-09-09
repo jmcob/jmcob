@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently looking for a web dev job in Bordeaux France
-
 - I'm working at Geosoft (near Bordeaux)
 
 - 🌱 I’m currently improving my vue skills with https://www.uneparole.love
