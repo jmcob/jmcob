@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 -->
 
 
-- I'm working at Geosoft (near Bordeaux)
+- I'm working for Geosoft (near Bordeaux)
 
-- 🌱 I’m currently improving my vue skills with https://www.uneparole.love
+- 🌱 I’m currently improving my vue skills with https://www.uneparole.love and other personal projects for the Church
 
 - I'm loving VitePress right now
 
