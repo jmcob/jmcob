@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 - I'm working for Geosoft (near Bordeaux)
 
-- 🌱 I’m currently improving my vue skills with https://www.uneparole.love and other personal projects for the Church
+- 🌱 I’m currently improving my Vuejs skills, at work, with https://www.uneparole.love, and other personal projects for me and the Church
 
-- I'm loving VitePress right now
+- I'm loving VitePress right now (it's simply awesome) : https://www.jmx.blue/
 
 - 📫 How to reach me: www.jmax.dev
 
