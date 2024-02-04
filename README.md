@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - I'm currently writing in my MarkDown tool, Obsidian. I commit my work here. Unfornately for you, for now it's private.
 
-- 🌱 I used to be improving my Vuejs skills, at work, with https://www.uneparole.love, and other personal projects for me and the Church
+- 🌱 I used to be improving my Vuejs skills, at work, with https://www.uneparole.com, and other personal projects for me and the Church
 
 - I'm loving VitePress right now (it's simply awesome) : https://www.jmx.blue/
 
