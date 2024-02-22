@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 - I'm loving VitePress right now (it's simply awesome) : https://www.jmx.blue/
 
-- 📫 How to reach me: https://www.jmax.dev/
-
 Have a nice day !
 
 
